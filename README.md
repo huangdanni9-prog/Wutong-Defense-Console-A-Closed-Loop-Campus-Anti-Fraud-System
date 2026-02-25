@@ -2,7 +2,7 @@
 
 **AI-Powered Campus Telecom Fraud Detection System**
 
-A closed-loop, end-to-end solution for identifying, analyzing, and preventing telecom fraud targeting university students in Hong Kong. Built for the CMHK AI Hackathon 2025, the system combines rule-based detection, machine learning models, LLM-powered intervention, and an interactive Streamlit dashboard to create a comprehensive anti-fraud defense platform.
+A closed-loop, end-to-end solution for identifying, analyzing, and preventing telecom fraud targeting university students in Hong Kong. Built for the CHINA MOBILE WUTONG CUP 2025, the system combines rule-based detection, machine learning models, LLM-powered intervention, and an interactive Streamlit dashboard to create a comprehensive anti-fraud defense platform.
 
 ---
 
