@@ -309,11 +309,10 @@ docker push myregistry.com/wutong-defense-console
 ---
 
 ## 👥 Team
-
-_[Add your team members here]_
+Daniel Koh Yu Hang
+Daniel Ng Tang Ni
+Ong Shun Yee
+Pang Yu Chen
+Jared Lee Chia Yang
 
 ---
-
-## 📄 License
-
-This project is for the CMHK AI Hackathon 2025.
