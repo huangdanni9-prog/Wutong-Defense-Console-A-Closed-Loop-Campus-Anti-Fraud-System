@@ -1,0 +1,1447 @@
+================================================================================
+STUDENT MODEL COLUMN DESCRIPTIONS
+================================================================================
+
+--- Column 1 ---
+  序号: 1
+  字段属性: user_id
+  字段名称: 用户ID
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 2 ---
+  序号: 2
+  字段属性: msisdn
+  字段名称: 用户手机号
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 3 ---
+  序号: 3
+  字段属性: t.ntwk_type
+  字段名称: 网络制式
+  数据类型: STRING
+  字段描述: 5G/4G/3G
+  数据样例: nan
+
+--- Column 4 ---
+  序号: 4
+  字段属性: t.card_type
+  字段名称: 实体卡/esim
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 5 ---
+  序号: 5
+  字段属性: t.age
+  字段名称: 用户年龄
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 6 ---
+  序号: 6
+  字段属性: t.gndr
+  字段名称: 用户性别
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 7 ---
+  序号: 7
+  字段属性: t.iden_type
+  字段名称: 客户关联证照类型
+  数据类型: STRING
+  字段描述: 如港澳通行证、香港身份证、护照等
+  数据样例: nan
+
+--- Column 8 ---
+  序号: 8
+  字段属性: t.hk_resident_type
+  字段名称: 在港居民类型
+  数据类型: STRING
+  字段描述: 已有标签（根据香港身份证判断）香港人,新来港内地人港漂,新来港内地人非港漂,新来港港人,新来港其他,其他
+  数据样例: nan
+
+--- Column 9 ---
+  序号: 9
+  字段属性: total_voice_cnt
+  字段名称: 从20250701至20251124接听陌生境外号码通话次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 10 ---
+  序号: 10
+  字段属性: total_msg_cnt
+  字段名称: 从20250701至20251124接收陌生境外号码短信条数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 11 ---
+  序号: 11
+  字段属性: max_voice_cnt
+  字段名称: 从20250701至20251124相同陌生境外号码最大通话次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 12 ---
+  序号: 12
+  字段属性: frequently_opp_num
+  字段名称: 从20250701至20251124最大通话次数的主叫号码
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 13 ---
+  序号: 13
+  字段属性: total_local_voice_cnt
+  字段名称: 从20250701至20251124接听陌生本地号码次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 14 ---
+  序号: 14
+  字段属性: total_local_msg_cnt
+  字段名称: 从20250701至20251124接收陌生本地短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 15 ---
+  序号: 15
+  字段属性: fraud_msisdn
+  字段名称: 从20250701至20251124电诈号码
+  数据类型: STRING
+  字段描述: 电诈命中学生，接到电诈用户通话，且同一个学生均只收到一个电诈用户的前提下，做这个字段。取接到电诈用户通话时，电诈用户的号码
+  数据样例: nan
+
+--- Column 16 ---
+  序号: 16
+  字段属性: from_china_mobile_call_cnt
+  字段名称: 从20250701至20251124接到主叫运营商为大陆运营商的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 17 ---
+  序号: 17
+  字段属性: mainland_cnt
+  字段名称: 2025年6月1日-2025年8月31日基站位置位于大陆的天数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 18 ---
+  序号: 18
+  字段属性: mainland_to_hk_cnt
+  字段名称: 2025年6月1日-2025年8月31日从大陆前往香港次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 19 ---
+  序号: 19
+  字段属性: app_max_cnt
+  字段名称: 过去28天，使用以下任一网站/App的最大天数（京东、淘宝、小红书、抖音、B站、虎牙、斗鱼、快手、微信、大陆支付宝、QQ音乐、王者荣耀）
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 20 ---
+  序号: 20
+  字段属性: voice_receive
+  字段名称: 从20250701至20251124接听诈骗号码次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 21 ---
+  序号: 21
+  字段属性: voice_call
+  字段名称: 从20250701至20251124拨打诈骗号码次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 22 ---
+  序号: 22
+  字段属性: msg_receive
+  字段名称: 从20250701至20251124收到诈骗号码短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 23 ---
+  序号: 23
+  字段属性: msg_call
+  字段名称: 从20250701至20251124向诈骗号码发送短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+================================================================================
+FRAUD MODEL 2 COLUMN DESCRIPTIONS
+================================================================================
+
+--- Column 1 ---
+  序号: 1
+  字段属性: user_id
+  字段名称: 用户ID
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 2 ---
+  序号: 2
+  字段属性: msisdn
+  字段名称: 号码
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 3 ---
+  序号: 3
+  字段属性: post_or_ppd
+  字段名称: 预付or后付
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 4 ---
+  序号: 4
+  字段属性: ntwk_type
+  字段名称: 网络制式
+  数据类型: STRING
+  字段描述: 3Gor2Gor5G
+  数据样例: nan
+
+--- Column 5 ---
+  序号: 5
+  字段属性: face_val
+  字段名称: 预付卡面价
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 6 ---
+  序号: 6
+  字段属性: mth_fee
+  字段名称: 后付套餐月费
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 7 ---
+  序号: 7
+  字段属性: age
+  字段名称: 用户年龄
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 8 ---
+  序号: 8
+  字段属性: gndr
+  字段名称: 用户性别
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 9 ---
+  序号: 9
+  字段属性: iden_type
+  字段名称: 用户关联证照类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 10 ---
+  序号: 10
+  字段属性: iden_type_num
+  字段名称: 用户自然人全部关联证照数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 11 ---
+  序号: 11
+  字段属性: id_type_hk_num
+  字段名称: 客户香港身份证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 12 ---
+  序号: 12
+  字段属性: id_type_hk_mac_to_mainland_num
+  字段名称: 客户港澳居民来往内地通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 13 ---
+  序号: 13
+  字段属性: id_type_mainland_to_hk_mac_num
+  字段名称: 客户内地居民来往港澳通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 14 ---
+  序号: 14
+  字段属性: id_type_psp_num
+  字段名称: 客户护照关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 15 ---
+  序号: 15
+  字段属性: lab_usr.hk_resident_type
+  字段名称: 在港居民类型
+  数据类型: STRING
+  字段描述: 已有标签(根据香港身份证判断)香港人,新来港内地人港漂,新来港内地人非港漂,新来港港人,新来港其他,其他
+  数据样例: nan
+
+--- Column 16 ---
+  序号: 16
+  字段属性: msisdn_type
+  字段名称: 号码类型
+  数据类型: STRING
+  字段描述: 判断(虚拟号or实体号)
+  数据样例: nan
+
+--- Column 17 ---
+  序号: 17
+  字段属性: rt_plan_cat
+  字段名称: 套餐类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 18 ---
+  序号: 18
+  字段属性: rt_plan_desc
+  字段名称: 主套餐名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 19 ---
+  序号: 19
+  字段属性: chnl_class
+  字段名称: 主套餐销售渠道
+  数据类型: STRING
+  字段描述: 比如便利店,mylink商城等
+  数据样例: nan
+
+--- Column 20 ---
+  序号: 20
+  字段属性: call_cnt_day
+  字段名称: 当天主叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 21 ---
+  序号: 21
+  字段属性: called_cnt_day
+  字段名称: 当天被叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 22 ---
+  序号: 22
+  字段属性: local_unknow_call_cnt
+  字段名称: 当天主叫本地陌生电话次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 23 ---
+  序号: 23
+  字段属性: roam_unknow_call_cnt
+  字段名称: 当天漫游主叫陌生通话次数
+  数据类型: STRING
+  字段描述: 漫游通话占全部通话的比例,高比例可能涉及跨境诈骗
+  数据样例: nan
+
+--- Column 24 ---
+  序号: 24
+  字段属性: dispersion_rate
+  字段名称: 当天主叫对端号码离散度
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 25 ---
+  序号: 25
+  字段属性: roam_msg_cnt
+  字段名称: 当天漫游发出短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 26 ---
+  序号: 26
+  字段属性: tot_msg_cnt
+  字段名称: 当天短信发送次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 27 ---
+  序号: 27
+  字段属性: avg_actv_dur
+  字段名称: 当天通话平均时长(秒)
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 28 ---
+  序号: 28
+  字段属性: change_imei_times
+  字段名称: 当天使用不同终端个数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 29 ---
+  序号: 29
+  字段属性: audit_status
+  字段名称: 稽核状态
+  数据类型: STRING
+  字段描述: 是否通过
+  数据样例: nan
+
+--- Column 30 ---
+  序号: 30
+  字段属性: audit_remark
+  字段名称: 稽核失败原因
+  数据类型: STRING
+  字段描述: 如果稽核未通过,需详细记录原因
+  数据样例: nan
+
+--- Column 31 ---
+  序号: 31
+  字段属性: vas_ofr_id_num
+  字段名称: 生效中的漫游VAS数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 32 ---
+  序号: 32
+  字段属性: is_support_roam
+  字段名称: 套餐是否有漫游服务
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 33 ---
+  序号: 33
+  字段属性: is_1cmn
+  字段名称: 是否为一卡两号
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 34 ---
+  序号: 34
+  字段属性: open_dt
+  字段名称: 开户时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 35 ---
+  序号: 35
+  字段属性: proc_time
+  字段名称: 因投诉原因被停机的时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 36 ---
+  序号: 36
+  字段属性: hit_student_model
+  字段名称: 因投诉原因被停机,且停机前一天(含停机当天)被叫名单命中学生模型
+  数据类型: STRING
+  字段描述: 是或否
+  数据样例: nan
+
+--- Column 37 ---
+  序号: 37
+  字段属性: opp_num_stu_cnt
+  字段名称: 当天被叫对象为学生的号码数量
+  数据类型: STRING
+  字段描述: 跟学生模型名单比对
+  数据样例: nan
+
+--- Column 38 ---
+  序号: 38
+  字段属性: call_stu_cnt
+  字段名称: 0701_1124期间主叫命中学生的通话总次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 39 ---
+  序号: 39
+  字段属性: call_cnt_day_2s
+  字段名称: 当天主叫通话时长2秒内的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 40 ---
+  序号: 40
+  字段属性: call_cnt_day_3m
+  字段名称: 当天主叫通话时长在3min以上的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 41 ---
+  序号: 41
+  字段属性: msisdn_source
+  字段名称: 投诉来源
+  数据类型: STRING
+  字段描述: 集团投诉,本地投诉,存量客户
+  数据样例: nan
+
+--- Column 42 ---
+  序号: 42
+  字段属性: l1.cellsite
+  字段名称: 当天被叫号码9点_18点停留时间最长的基站
+  数据类型: STRING
+  字段描述: 11月20号之后再提数
+  数据样例: nan
+
+--- Column 43 ---
+  序号: 43
+  字段属性: cellsite_duration
+  字段名称: 当天在同一基站的最大时长(秒)
+  数据类型: STRING
+  字段描述: 该号码 9点_18点取停留时间最长的基站,汇总这个基站的当天时长。
+  数据样例: nan
+
+--- Column 44 ---
+  序号: 44
+  字段属性: call_cnt_times_9_12
+  字段名称: 当天9点_12点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 45 ---
+  序号: 45
+  字段属性: call_cnt_times_12_15
+  字段名称: 当天12点_15点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 46 ---
+  序号: 46
+  字段属性: call_cnt_times_15_18
+  字段名称: 当天15点_18点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 47 ---
+  序号: 47
+  字段属性: call_cnt_times_18_21
+  字段名称: 当天18点_21点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 48 ---
+  序号: 48
+  字段属性: call_cnt_times_21_24
+  字段名称: 当天21点_24点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 49 ---
+  序号: 49
+  字段属性: i.rechrg_for_ppd
+  字段名称: 开卡后第一次充值金额
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 50 ---
+  序号: 50
+  字段属性: i.refill_vchr_strt_time
+  字段名称: 第一次充值时间
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 51 ---
+  序号: 51
+  字段属性: j.ofr_cd
+  字段名称: 购买第一个VAS code
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 52 ---
+  序号: 52
+  字段属性: j.ofr_nm
+  字段名称: 购买第一个VAS名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+================================================================================
+FRAUD MODEL 1_1 COLUMN DESCRIPTIONS
+================================================================================
+
+--- Column 1 ---
+  序号: 1
+  字段属性: user_id
+  字段名称: 用户ID
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 2 ---
+  序号: 2
+  字段属性: msisdn
+  字段名称: 号码
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 3 ---
+  序号: 3
+  字段属性: post_or_ppd
+  字段名称: 预付or后付
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 4 ---
+  序号: 4
+  字段属性: ntwk_type
+  字段名称: 网络制式
+  数据类型: STRING
+  字段描述: 3Gor2Gor5G
+  数据样例: nan
+
+--- Column 5 ---
+  序号: 5
+  字段属性: face_val
+  字段名称: 预付卡面价
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 6 ---
+  序号: 6
+  字段属性: mth_fee
+  字段名称: 后付套餐月费
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 7 ---
+  序号: 7
+  字段属性: age
+  字段名称: 用户年龄
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 8 ---
+  序号: 8
+  字段属性: gndr
+  字段名称: 用户性别
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 9 ---
+  序号: 9
+  字段属性: iden_type
+  字段名称: 用户关联证照类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 10 ---
+  序号: 10
+  字段属性: iden_type_num
+  字段名称: 用户自然人全部关联证照数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 11 ---
+  序号: 11
+  字段属性: id_type_hk_num
+  字段名称: 客户香港身份证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 12 ---
+  序号: 12
+  字段属性: id_type_hk_mac_to_mainland_num
+  字段名称: 客户港澳居民来往内地通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 13 ---
+  序号: 13
+  字段属性: id_type_mainland_to_hk_mac_num
+  字段名称: 客户内地居民来往港澳通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 14 ---
+  序号: 14
+  字段属性: id_type_psp_num
+  字段名称: 客户护照关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 15 ---
+  序号: 15
+  字段属性: lab_usr.hk_resident_type
+  字段名称: 在港居民类型
+  数据类型: STRING
+  字段描述: 已有标签(根据香港身份证判断)香港人,新来港内地人港漂,新来港内地人非港漂,新来港港人,新来港其他,其他
+  数据样例: nan
+
+--- Column 16 ---
+  序号: 16
+  字段属性: msisdn_type
+  字段名称: 号码类型
+  数据类型: STRING
+  字段描述: 判断(虚拟号or实体号)
+  数据样例: nan
+
+--- Column 17 ---
+  序号: 17
+  字段属性: rt_plan_cat
+  字段名称: 套餐类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 18 ---
+  序号: 18
+  字段属性: rt_plan_desc
+  字段名称: 主套餐名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 19 ---
+  序号: 19
+  字段属性: chnl_class
+  字段名称: 主套餐销售渠道
+  数据类型: STRING
+  字段描述: 比如便利店,mylink商城等
+  数据样例: nan
+
+--- Column 20 ---
+  序号: 20
+  字段属性: call_cnt_day
+  字段名称: 当天主叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 21 ---
+  序号: 21
+  字段属性: called_cnt_day
+  字段名称: 当天被叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 22 ---
+  序号: 22
+  字段属性: local_unknow_call_cnt
+  字段名称: 当天主叫本地陌生电话次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 23 ---
+  序号: 23
+  字段属性: roam_unknow_call_cnt
+  字段名称: 当天漫游主叫陌生通话次数
+  数据类型: STRING
+  字段描述: 漫游通话占全部通话的比例,高比例可能涉及跨境诈骗
+  数据样例: nan
+
+--- Column 24 ---
+  序号: 24
+  字段属性: dispersion_rate
+  字段名称: 当天主叫对端号码离散度
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 25 ---
+  序号: 25
+  字段属性: roam_msg_cnt
+  字段名称: 当天漫游发出短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 26 ---
+  序号: 26
+  字段属性: tot_msg_cnt
+  字段名称: 当天短信发送次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 27 ---
+  序号: 27
+  字段属性: avg_actv_dur
+  字段名称: 当天通话平均时长(秒)
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 28 ---
+  序号: 28
+  字段属性: change_imei_times
+  字段名称: 当天使用不同终端个数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 29 ---
+  序号: 29
+  字段属性: audit_status
+  字段名称: 稽核状态
+  数据类型: STRING
+  字段描述: 是否通过
+  数据样例: nan
+
+--- Column 30 ---
+  序号: 30
+  字段属性: audit_remark
+  字段名称: 稽核失败原因
+  数据类型: STRING
+  字段描述: 如果稽核未通过,需详细记录原因
+  数据样例: nan
+
+--- Column 31 ---
+  序号: 31
+  字段属性: vas_ofr_id_num
+  字段名称: 生效中的漫游VAS数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 32 ---
+  序号: 32
+  字段属性: is_support_roam
+  字段名称: 套餐是否有漫游服务
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 33 ---
+  序号: 33
+  字段属性: is_1cmn
+  字段名称: 是否为一卡两号
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 34 ---
+  序号: 34
+  字段属性: open_dt
+  字段名称: 开户时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 35 ---
+  序号: 35
+  字段属性: proc_time
+  字段名称: 因投诉原因被停机的时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 36 ---
+  序号: 36
+  字段属性: hit_student_model
+  字段名称: 因投诉原因被停机,且停机前一天(含停机当天)被叫名单命中学生模型
+  数据类型: STRING
+  字段描述: 是或否
+  数据样例: nan
+
+--- Column 37 ---
+  序号: 37
+  字段属性: opp_num_stu_cnt
+  字段名称: 当天被叫对象为学生的号码数量
+  数据类型: STRING
+  字段描述: 跟学生模型名单比对
+  数据样例: nan
+
+--- Column 38 ---
+  序号: 38
+  字段属性: call_stu_cnt
+  字段名称: 0701_1124期间主叫命中学生的通话总次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 39 ---
+  序号: 39
+  字段属性: call_cnt_day_2s
+  字段名称: 当天主叫通话时长2秒内的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 40 ---
+  序号: 40
+  字段属性: call_cnt_day_3m
+  字段名称: 当天主叫通话时长在3min以上的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 41 ---
+  序号: 41
+  字段属性: msisdn_source
+  字段名称: 投诉来源
+  数据类型: STRING
+  字段描述: 集团投诉,本地投诉,存量客户
+  数据样例: nan
+
+--- Column 42 ---
+  序号: 42
+  字段属性: l1.cellsite
+  字段名称: 当天被叫号码9点_18点停留时间最长的基站
+  数据类型: STRING
+  字段描述: 11月20号之后再提数
+  数据样例: nan
+
+--- Column 43 ---
+  序号: 43
+  字段属性: cellsite_duration
+  字段名称: 当天在同一基站的最大时长(秒)
+  数据类型: STRING
+  字段描述: 该号码 9点_18点取停留时间最长的基站,汇总这个基站的当天时长。
+  数据样例: nan
+
+--- Column 44 ---
+  序号: 44
+  字段属性: call_cnt_times_9_12
+  字段名称: 当天9点_12点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 45 ---
+  序号: 45
+  字段属性: call_cnt_times_12_15
+  字段名称: 当天12点_15点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 46 ---
+  序号: 46
+  字段属性: call_cnt_times_15_18
+  字段名称: 当天15点_18点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 47 ---
+  序号: 47
+  字段属性: call_cnt_times_18_21
+  字段名称: 当天18点_21点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 48 ---
+  序号: 48
+  字段属性: call_cnt_times_21_24
+  字段名称: 当天21点_24点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 49 ---
+  序号: 49
+  字段属性: i.rechrg_for_ppd
+  字段名称: 开卡后第一次充值金额
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 50 ---
+  序号: 50
+  字段属性: i.refill_vchr_strt_time
+  字段名称: 第一次充值时间
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 51 ---
+  序号: 51
+  字段属性: j.ofr_cd
+  字段名称: 购买第一个VAS code
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 52 ---
+  序号: 52
+  字段属性: j.ofr_nm
+  字段名称: 购买第一个VAS名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+================================================================================
+FRAUD MODEL 1_2 COLUMN DESCRIPTIONS
+================================================================================
+
+--- Column 1 ---
+  序号: 1
+  字段属性: user_id
+  字段名称: 用户ID
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 2 ---
+  序号: 2
+  字段属性: msisdn
+  字段名称: 号码
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 3 ---
+  序号: 3
+  字段属性: post_or_ppd
+  字段名称: 预付or后付
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 4 ---
+  序号: 4
+  字段属性: ntwk_type
+  字段名称: 网络制式
+  数据类型: STRING
+  字段描述: 3Gor2Gor5G
+  数据样例: nan
+
+--- Column 5 ---
+  序号: 5
+  字段属性: face_val
+  字段名称: 预付卡面价
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 6 ---
+  序号: 6
+  字段属性: mth_fee
+  字段名称: 后付套餐月费
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 7 ---
+  序号: 7
+  字段属性: age
+  字段名称: 用户年龄
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 8 ---
+  序号: 8
+  字段属性: gndr
+  字段名称: 用户性别
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 9 ---
+  序号: 9
+  字段属性: iden_type
+  字段名称: 用户关联证照类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 10 ---
+  序号: 10
+  字段属性: iden_type_num
+  字段名称: 用户自然人全部关联证照数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 11 ---
+  序号: 11
+  字段属性: id_type_hk_num
+  字段名称: 客户香港身份证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 12 ---
+  序号: 12
+  字段属性: id_type_hk_mac_to_mainland_num
+  字段名称: 客户港澳居民来往内地通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 13 ---
+  序号: 13
+  字段属性: id_type_mainland_to_hk_mac_num
+  字段名称: 客户内地居民来往港澳通行证关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 14 ---
+  序号: 14
+  字段属性: id_type_psp_num
+  字段名称: 客户护照关联号码数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 15 ---
+  序号: 15
+  字段属性: lab_usr.hk_resident_type
+  字段名称: 在港居民类型
+  数据类型: STRING
+  字段描述: 已有标签(根据香港身份证判断)香港人,新来港内地人港漂,新来港内地人非港漂,新来港港人,新来港其他,其他
+  数据样例: nan
+
+--- Column 16 ---
+  序号: 16
+  字段属性: msisdn_type
+  字段名称: 号码类型
+  数据类型: STRING
+  字段描述: 判断(虚拟号or实体号)
+  数据样例: nan
+
+--- Column 17 ---
+  序号: 17
+  字段属性: rt_plan_cat
+  字段名称: 套餐类型
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 18 ---
+  序号: 18
+  字段属性: rt_plan_desc
+  字段名称: 主套餐名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 19 ---
+  序号: 19
+  字段属性: chnl_class
+  字段名称: 主套餐销售渠道
+  数据类型: STRING
+  字段描述: 比如便利店,mylink商城等
+  数据样例: nan
+
+--- Column 20 ---
+  序号: 20
+  字段属性: call_cnt_day
+  字段名称: 当天主叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 21 ---
+  序号: 21
+  字段属性: called_cnt_day
+  字段名称: 当天被叫次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 22 ---
+  序号: 22
+  字段属性: local_unknow_call_cnt
+  字段名称: 当天主叫本地陌生电话次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 23 ---
+  序号: 23
+  字段属性: roam_unknow_call_cnt
+  字段名称: 当天漫游主叫陌生通话次数
+  数据类型: STRING
+  字段描述: 漫游通话占全部通话的比例,高比例可能涉及跨境诈骗
+  数据样例: nan
+
+--- Column 24 ---
+  序号: 24
+  字段属性: dispersion_rate
+  字段名称: 当天主叫对端号码离散度
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 25 ---
+  序号: 25
+  字段属性: roam_msg_cnt
+  字段名称: 当天漫游发出短信次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 26 ---
+  序号: 26
+  字段属性: tot_msg_cnt
+  字段名称: 当天短信发送次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 27 ---
+  序号: 27
+  字段属性: avg_actv_dur
+  字段名称: 当天通话平均时长(秒)
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 28 ---
+  序号: 28
+  字段属性: change_imei_times
+  字段名称: 当天使用不同终端个数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 29 ---
+  序号: 29
+  字段属性: audit_status
+  字段名称: 稽核状态
+  数据类型: STRING
+  字段描述: 是否通过
+  数据样例: nan
+
+--- Column 30 ---
+  序号: 30
+  字段属性: audit_remark
+  字段名称: 稽核失败原因
+  数据类型: STRING
+  字段描述: 如果稽核未通过,需详细记录原因
+  数据样例: nan
+
+--- Column 31 ---
+  序号: 31
+  字段属性: vas_ofr_id_num
+  字段名称: 生效中的漫游VAS数量
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 32 ---
+  序号: 32
+  字段属性: is_support_roam
+  字段名称: 套餐是否有漫游服务
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 33 ---
+  序号: 33
+  字段属性: is_1cmn
+  字段名称: 是否为一卡两号
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 34 ---
+  序号: 34
+  字段属性: open_dt
+  字段名称: 开户时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 35 ---
+  序号: 35
+  字段属性: proc_time
+  字段名称: 因投诉原因被停机的时间
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 36 ---
+  序号: 36
+  字段属性: hit_student_model
+  字段名称: 因投诉原因被停机,且停机前一天(含停机当天)被叫名单命中学生模型
+  数据类型: STRING
+  字段描述: 是或否
+  数据样例: nan
+
+--- Column 37 ---
+  序号: 37
+  字段属性: opp_num_stu_cnt
+  字段名称: 当天被叫对象为学生的号码数量
+  数据类型: STRING
+  字段描述: 跟学生模型名单比对
+  数据样例: nan
+
+--- Column 38 ---
+  序号: 38
+  字段属性: call_stu_cnt
+  字段名称: 0701_1124期间主叫命中学生的通话总次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 39 ---
+  序号: 39
+  字段属性: call_cnt_day_2s
+  字段名称: 当天主叫通话时长2秒内的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 40 ---
+  序号: 40
+  字段属性: call_cnt_day_3m
+  字段名称: 当天主叫通话时长在3min以上的次数
+  数据类型: STRING
+  字段描述: 如果两端号码一致,且有多个通话回合,则取平均通话时长。
+  数据样例: nan
+
+--- Column 41 ---
+  序号: 41
+  字段属性: msisdn_source
+  字段名称: 投诉来源
+  数据类型: STRING
+  字段描述: 集团投诉,本地投诉,存量客户
+  数据样例: nan
+
+--- Column 42 ---
+  序号: 42
+  字段属性: l1.cellsite
+  字段名称: 当天被叫号码9点_18点停留时间最长的基站
+  数据类型: STRING
+  字段描述: 11月20号之后再提数
+  数据样例: nan
+
+--- Column 43 ---
+  序号: 43
+  字段属性: cellsite_duration
+  字段名称: 当天在同一基站的最大时长(秒)
+  数据类型: STRING
+  字段描述: 该号码 9点_18点取停留时间最长的基站,汇总这个基站的当天时长。
+  数据样例: nan
+
+--- Column 44 ---
+  序号: 44
+  字段属性: call_cnt_times_9_12
+  字段名称: 当天9点_12点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 45 ---
+  序号: 45
+  字段属性: call_cnt_times_12_15
+  字段名称: 当天12点_15点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 46 ---
+  序号: 46
+  字段属性: call_cnt_times_15_18
+  字段名称: 当天15点_18点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 47 ---
+  序号: 47
+  字段属性: call_cnt_times_18_21
+  字段名称: 当天18点_21点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 48 ---
+  序号: 48
+  字段属性: call_cnt_times_21_24
+  字段名称: 当天21点_24点主叫次数超过5次的次数
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 49 ---
+  序号: 49
+  字段属性: i.rechrg_for_ppd
+  字段名称: 开卡后第一次充值金额
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 50 ---
+  序号: 50
+  字段属性: i.refill_vchr_strt_time
+  字段名称: 第一次充值时间
+  数据类型: STRING
+  字段描述: 只针对预付卡
+  数据样例: nan
+
+--- Column 51 ---
+  序号: 51
+  字段属性: j.ofr_cd
+  字段名称: 购买第一个VAS code
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan
+
+--- Column 52 ---
+  序号: 52
+  字段属性: j.ofr_nm
+  字段名称: 购买第一个VAS名称
+  数据类型: STRING
+  字段描述: nan
+  数据样例: nan

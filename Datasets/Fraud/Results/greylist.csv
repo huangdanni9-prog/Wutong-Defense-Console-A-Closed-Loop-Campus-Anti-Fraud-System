@@ -1,0 +1,2423 @@
+msisdn,risk_score,risk_tier,source,trigger_reason,source_file
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+NX4pLTRDA78DwETU05z3bg==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+3aT2VfFhMbWlKqj99qDiBQ==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+LYEZIGtJ8VYDnmjDBsRHQw==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+VIOMCrRe+pdDK84MFb1sGA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+zEpqqFOupkwmSKXsu35Y9Q==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+uuJu+kx/D3nz85hOCMiA3Q==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+TpVhJOx2ImLfv+y67iy7qA==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+DGbshDICvZjp3t93HBEZPQ==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+DGbshDICvZjp3t93HBEZPQ==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+u/xVDX8H8G1Tgm3euR7rlg==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+8Ylblf9qykyhSWino5a9mg==,0.73444116,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kShmGrFz6pwAGOI9Br3BNA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+iNceo/KwBDDILLrKAFEYWw==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+oFPpI9luM/xmpgaAOEGp0g==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+KWAH4u5Bo/OkQM5OoZEpPA==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+1hBDXSvQKsQ65f7E0nrEKQ==,0.83306336,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ksdtBbdsHm2RcyLkiVs9Eg==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+3PdR4+h2grRcdgMIVaNPjQ==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kShmGrFz6pwAGOI9Br3BNA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+3PdR4+h2grRcdgMIVaNPjQ==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+NX4pLTRDA78DwETU05z3bg==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+3/LYKl//KmUqf8rGL7mxUw==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
++3tsYxQ78n/qKMbaC6QqCQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+34S6DBoCbqMNPdZ3Ywec8w==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kRljPBadODlVcRGKBDJbyA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+NX4pLTRDA78DwETU05z3bg==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+34S6DBoCbqMNPdZ3Ywec8w==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+RS5P70WrJhb/COQeQ65WAA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FtwPWmGfyMSrkzttcRq9aQ==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+P7Hj8xgCyyyS3elL+bmaig==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+HR0QeKwf0ObABwDvW+iZ8Q==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+NoyziMnTpYb+sOsJB8OX5A==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ygiLstCNzeU8M66i8mm5Bg==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+xWUJCV7daa+5yEkhQl4egA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+Jbk65RaPYfH0ZL6ymcqQBA==,0.6295087,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ZEzPj2iTwzspOt4IyCWHCQ==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+HR0QeKwf0ObABwDvW+iZ8Q==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+2Niq1ifQ6xsi4j8SkG3FFA==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+2Niq1ifQ6xsi4j8SkG3FFA==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+YLpEMGwfUlMAG5zTPSn+9w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+VSQvgUz2o8u21U4E/8dCaQ==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ygiLstCNzeU8M66i8mm5Bg==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+34S6DBoCbqMNPdZ3Ywec8w==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+nWc4BWziPsmty6U3Wx5vBA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+HBeYeOWXCS9e4Oxt+3QYAg==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+bNSjy4980mF42XmKHEsaJA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+mqlSOq7A33HXVXVj/lIMDQ==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+9ihZFQsPEtzzly6Bgj0arA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+HBeYeOWXCS9e4Oxt+3QYAg==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+KWAH4u5Bo/OkQM5OoZEpPA==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+mhjLYVBFVZG+hB/FPSN4kA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+bNSjy4980mF42XmKHEsaJA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+mdqxcGABlpJ1gu8evOpu7g==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+3PdR4+h2grRcdgMIVaNPjQ==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kShmGrFz6pwAGOI9Br3BNA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+e4ByKwEOR2ujecz+4YoiuA==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+jEsz0y/EyY2tLRibC8Kf+w==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+mqlSOq7A33HXVXVj/lIMDQ==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+3PdR4+h2grRcdgMIVaNPjQ==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+34S6DBoCbqMNPdZ3Ywec8w==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
++3tsYxQ78n/qKMbaC6QqCQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+CbNOcFtnARmWBJB/cyeJ6Q==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+WXXgLSOVIqRZhb4Uj05K6w==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+NoyziMnTpYb+sOsJB8OX5A==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+WXXgLSOVIqRZhb4Uj05K6w==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+TpVhJOx2ImLfv+y67iy7qA==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+nWc4BWziPsmty6U3Wx5vBA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+VIOMCrRe+pdDK84MFb1sGA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+mdqxcGABlpJ1gu8evOpu7g==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+T1bOyem5+MzeaEKlf/DqmQ==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+WXXgLSOVIqRZhb4Uj05K6w==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+vjhlJ5Lol3/87mfkL3rr7Q==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+HR0QeKwf0ObABwDvW+iZ8Q==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+sL5CWx9IU53sLnbs+GbBZw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+hD/PZn4tgfoCiwNgL9wf6A==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+KWAH4u5Bo/OkQM5OoZEpPA==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+3/LYKl//KmUqf8rGL7mxUw==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+kQUNV77uk2/Psom87lhuNw==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+8Ylblf9qykyhSWino5a9mg==,0.73444116,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+bNSjy4980mF42XmKHEsaJA==,0.01563768,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ZEzPj2iTwzspOt4IyCWHCQ==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+9ihZFQsPEtzzly6Bgj0arA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ksdtBbdsHm2RcyLkiVs9Eg==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+WXXgLSOVIqRZhb4Uj05K6w==,0.025490325,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+ykCSzVEvTOM5At1GoLhJMA==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+9ihZFQsPEtzzly6Bgj0arA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+BpGtG7ii1ktweD3o6SYPuQ==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+qaB8O8WzX1EG9sUnSKkdJw==,0.070450164,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+hkkeXOtdUZvufU9gii4LNA==,0.54657626,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+51jOFcZT8mwi/oFee6K2+g==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+v+gn2m6VcupZ3NkBkKpmjw==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+01IfSVKol0an6q9/koWUSA==,0.7208909,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+FZ3k4M3Sdg2wRQ8mC9GsPg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+HR0QeKwf0ObABwDvW+iZ8Q==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+12GCer+ExLUCmpa5svJF/g==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+AzFbG9KUEyQ2tcyzKSJYWA==,0.82847273,GREY,ML,Medium_Prob_XGBoost,fraud_model_1_2
+4/ldhCzdBkVSWM3z6SCsuA==,0.0505895,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+NX4pLTRDA78DwETU05z3bg==,0.011523998,GREY,RULE_PS,"Passport+Silent (Low): 3838     5
+3966     1
+3992     5
+4067     1
+4118     5
+        ..
+25814    1
+25992    1
+26461    1
+26675    1
+26967    1
+Name: call_cnt_day, Length: 166, dtype: int64 calls",fraud_model_1_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRDMbYK+Z0Y4G3q320Y8gg==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+v3sK+P8yl7o5Tm9R2mELxA==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+sQHd2cZofMT751hh6GdGiw==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+sQHd2cZofMT751hh6GdGiw==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+nGVPx/3qQGBv8GGBpRtrqA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0D51qDoqQPd4BSOckZS3fw==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
++Yx0ULQ6+O99XWsbwEp4lw==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+mT8K+FOY7x22wl1gS+G8dA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HlS4Zj4Ry7SVgXGM+K09Bg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+DHgPABezBtpAAxT5zIBDrg==,0.6036562,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HlS4Zj4Ry7SVgXGM+K09Bg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+H65zqJtI1VaowlpKBcCEiQ==,0.80165803,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRDMbYK+Z0Y4G3q320Y8gg==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+48uylMmWQZUU8fSaq2V3/Q==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+mT8K+FOY7x22wl1gS+G8dA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+v3sK+P8yl7o5Tm9R2mELxA==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0D51qDoqQPd4BSOckZS3fw==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRDMbYK+Z0Y4G3q320Y8gg==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRDMbYK+Z0Y4G3q320Y8gg==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+v3sK+P8yl7o5Tm9R2mELxA==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+H65zqJtI1VaowlpKBcCEiQ==,0.80165803,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bJjzAiJ+/5JIOqY3dJMAOA==,0.66748923,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+enCAmsW6TYsthV4bawHURg==,0.68732715,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+2DUBmnUeS/0nBEEoJyxwgg==,0.80418104,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bJjzAiJ+/5JIOqY3dJMAOA==,0.66748923,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+mT8K+FOY7x22wl1gS+G8dA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+DHgPABezBtpAAxT5zIBDrg==,0.6036562,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+UPHVYqahavC+5Eh8jTaBdw==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+48uylMmWQZUU8fSaq2V3/Q==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+sQHd2cZofMT751hh6GdGiw==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+H65zqJtI1VaowlpKBcCEiQ==,0.80165803,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+enCAmsW6TYsthV4bawHURg==,0.68732715,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BRQjE8a5pqamPsTK2BCXYQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+48uylMmWQZUU8fSaq2V3/Q==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+v3sK+P8yl7o5Tm9R2mELxA==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+H65zqJtI1VaowlpKBcCEiQ==,0.80165803,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1E22neVJjq78e30cqXM4UA==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+iuVHVxP24fo3imwOQ0bDVw==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+DHgPABezBtpAAxT5zIBDrg==,0.6036562,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bJjzAiJ+/5JIOqY3dJMAOA==,0.66748923,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HlS4Zj4Ry7SVgXGM+K09Bg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+enCAmsW6TYsthV4bawHURg==,0.68732715,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+sQHd2cZofMT751hh6GdGiw==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+DHgPABezBtpAAxT5zIBDrg==,0.6036562,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+enCAmsW6TYsthV4bawHURg==,0.68732715,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HlS4Zj4Ry7SVgXGM+K09Bg==,0.7984115,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
++Yx0ULQ6+O99XWsbwEp4lw==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SDbwIxzXgoAJXQtlzCUbbA==,0.73444116,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+48uylMmWQZUU8fSaq2V3/Q==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SDbwIxzXgoAJXQtlzCUbbA==,0.73444116,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+rsI9smUHdqDNIH5zAq5ZNQ==,0.7458371,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+BSaZ1iABlJwzY4Pi/h9VRg==,0.8422292,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0D51qDoqQPd4BSOckZS3fw==,0.8197406,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+HeHlY5dNWLxlrjpdLFGO4g==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+5V8Mh6IXPLnr4bJb0oPpTw==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+iuVHVxP24fo3imwOQ0bDVw==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+Cp2r0tZwRV+bXVYHjrTKjQ==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+dfZ1THsIUU65MNq6cHCrLg==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+IJD1vnOrcVn1hcuhCTM8eA==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+0hRKdAsSbZPUR7QNMb4Tmw==,0.6781671,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wUyAnCcO1lSug4l3sAQAIQ==,0.780301,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+pzHyAyOupxrSot4ri/U07w==,0.631617,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+yCdwM2H+6E7Z4MLX7NDdUw==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ffd6IXe56mZyXngN3+TihQ==,0.7604273,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SwXO4T8b7b85/v1zooLbYA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bJjzAiJ+/5JIOqY3dJMAOA==,0.66748923,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+FTNv1AlTILHmRHUl/Ot+jg==,0.7253436,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+URTb4wMtX9zr9NMVccX12A==,0.83377516,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+mT8K+FOY7x22wl1gS+G8dA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+YhmnkixUQqIMAgWlYrePzA==,0.83992213,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+2DUBmnUeS/0nBEEoJyxwgg==,0.80418104,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+CLDlQOdgVMiflMlONuUeTA==,0.7812358,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6Grtmrkn81GbwRFbXVyU+g==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/I2F4bgFy/Mu2RbyDb98dQ==,0.67815804,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+ryzHDdbi1Go/8dexhhCnZA==,0.75268567,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+x8gD6IGblLNYF4m0QD4lLQ==,0.7644146,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+/AwzMmTMehiC/YtF943JdA==,0.7359355,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+1xMjnAPBDErra9yverXjLQ==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+N64Eibmej2EBdJVf/6jThw==,0.7127249,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+I8FTxcrMXEQ7vI16zX5SyQ==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+k6SnnAsCqTHV51h/UCMzfQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+eRWH+yHVQl0JD03OtiqqnA==,0.8219976,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+wLzNMHcth7t2XHfB36aNmA==,0.82550746,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+EysZLtcQXBJXLh5m/g6dbQ==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+3IJhp/KjAWTLjPWqfm++bA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+2iG/ZRaFz3HVXkGP1kIesQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SjVIp6TTA3uDKp+a1veL7g==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SjVIp6TTA3uDKp+a1veL7g==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+2iG/ZRaFz3HVXkGP1kIesQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b5GUmIiFF944BmBP2eqXcw==,0.8411382,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+3IJhp/KjAWTLjPWqfm++bA==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+2iG/ZRaFz3HVXkGP1kIesQ==,0.82012457,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SjVIp6TTA3uDKp+a1veL7g==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+OrBwIqjmTXFs8uuPj96Z1Q==,0.7978401,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+SjVIp6TTA3uDKp+a1veL7g==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+b3elxW3sN6nsstX5DiLfqw==,0.7349214,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+bQJvk3Wj5tDR/KIwyYNYDA==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+uY6cShjT7z2dWAR0B/Kr0w==,0.8190259,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+6AI1uYSQF9krLj/7H6awJw==,0.62493175,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+hsNz33wqOdhsnOxvqckD3w==,0.60720944,GREY,ML,Medium_Prob_XGBoost,fraud_model_2
+INPTW6EMB0O0mXmfTEcP+w==,0.8403981,GREY,ML,Medium_Prob_XGBoost,fraud_model_2

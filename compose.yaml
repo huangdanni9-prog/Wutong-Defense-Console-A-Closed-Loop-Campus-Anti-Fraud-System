@@ -1,0 +1,16 @@
+# Docker Compose configuration for Campus Anti-Fraud Solution
+services:
+  server:
+    build:
+      context: .
+    ports:
+      - 8501:8501
+    volumes:
+      # Mount source code for live reloading (read-only is fine)
+      - ./src:/app/src:ro
+      # Mount Datasets and models as READ-WRITE so app can save results
+      - ./Datasets:/app/Datasets:rw
+      - ./models:/app/models:rw
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - MPLCONFIGDIR=/tmp/matplotlib

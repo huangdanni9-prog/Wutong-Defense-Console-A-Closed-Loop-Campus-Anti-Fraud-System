@@ -1,0 +1,29 @@
+# Campus Anti-Fraud Solution Dependencies
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+shap>=0.43.0
+
+# Privacy Libraries
+diffprivlib>=0.6.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+pyvis>=0.3.2  # Network graph visualization
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+
+# LLM Integration
+google-generativeai>=0.3.0
+groq>=0.4.0
+
+# Demo App
+streamlit>=1.30.0  # <--- CHANGED from Gradio
+python-dotenv>=1.0.0
+watchdog>=3.0.0
