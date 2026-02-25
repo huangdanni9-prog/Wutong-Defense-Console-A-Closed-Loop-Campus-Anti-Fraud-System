@@ -1,14 +1,14 @@
-# 🛡️ Wutong Defense Console
+﻿# 🛡️ Wutong Defense Console
 
 **AI-Powered Campus Telecom Fraud Detection System**
 
-A comprehensive solution for identifying and preventing telecom fraud targeting students in Hong Kong.
+A closed-loop, end-to-end solution for identifying, analyzing, and preventing telecom fraud targeting university students in Hong Kong. Built for the CMHK AI Hackathon 2025, the system combines rule-based detection, machine learning models, LLM-powered intervention, and an interactive Streamlit dashboard to create a comprehensive anti-fraud defense platform.
 
 ---
 
 ## 📋 Project Overview
 
-This project addresses three core tasks:
+Telecom fraud targeting campus students is a growing threat in Hong Kong — scammers exploit young, cross-border students through tactics such as fake government calls, Wangiri callbacks, and SIM-box robo-dialing. **Wutong Defense Console** tackles this problem across three interconnected tasks:
 
 | Task       | Description                    | Approach                                   |
 | ---------- | ------------------------------ | ------------------------------------------ |
@@ -16,26 +16,70 @@ This project addresses three core tasks:
 | **Task 2** | Wire Fraud User Portrait       | XGBoost + Rule Engine + Persona Clustering |
 | **Task 3** | Product Vulnerability Analysis | Feature analysis of exploited products     |
 
+### How the Tasks Connect (Closed-Loop Design)
+
+The system forms a **closed loop** — outputs from one task feed into another:
+
+1. **Task 2 (Fraud Detection)** identifies confirmed fraud MSISDNs and produces a Blacklist / Greylist.
+2. **Task 1 (Student Risk)** cross-references students' call records against the Task 2 threat database to calculate a Risk Triangle Score (Identity × Exposure × Behavior).
+3. **Task 3 (Product Analysis)** examines which telecom products and plans are most exploited by fraudsters, enabling proactive product-level hardening.
+4. The **Frontend Dashboard** ties everything together — operators can review alerts, drill into student profiles, run live simulations, and generate AI-powered intervention scripts via Groq LLM.
+
 ---
 
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Wutong Defense Console                        │
-├─────────────────────────────────────────────────────────────────┤
-│  Frontend (Streamlit)                                            │
-│  └── Dashboard, Student Details, Fraud Intel, Simulators        │
-├─────────────────────────────────────────────────────────────────┤
-│  Student Risk Module          │  Fraud Detection Module          │
-│  ├── Feature Engineering      │  ├── Feature Engineering         │
-│  ├── Risk Triangle Scorer     │  ├── 6-Rule Engine               │
-│  ├── Clustering Model         │  ├── XGBoost + Isolation Forest  │
-│  └── Portrait Generator       │  └── Fraud Clustering            │
-├─────────────────────────────────────────────────────────────────┤
-│  Privacy Stack: Differential Privacy (ε=5.0)                     │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                        Wutong Defense Console                            │
+├──────────────────────────────────────────────────────────────────────────┤
+│  Frontend (Streamlit)                                                     │
+│  ├── 📊 Real-time Dashboard          - KPI overview with DP-protected    │
+│  │                                      aggregate statistics             │
+│  ├── 👤 Student Detail Lookup         - Individual risk profiles with    │
+│  │                                      SHAP-style explanations          │
+│  ├── 🎮 Live Risk Simulator           - Adjust parameters to see score  │
+│  │                                      changes in real time             │
+│  ├── 🕸️ Network Visualization         - Interactive fraud-student graph  │
+│  │                                      (vis.js / pyvis)                 │
+│  ├── 🚨 Fraud Intelligence            - Blacklist & Greylist management │
+│  ├── ✅ Whitelist Review Workflow      - Human-in-the-loop approval      │
+│  ├── 🎯 Fraud Scenario Simulator      - Replay real fraud chains with   │
+│  │                                      rule-engine live testing         │
+│  └── 🔒 Ethical AI Dashboard          - Transparency & privacy controls │
+├──────────────────────────────────────────────────────────────────────────┤
+│  Student Risk Module (Task 1)    │  Fraud Detection Module (Task 2)      │
+│  ├── Feature Engineering         │  ├── Feature Engineering              │
+│  ├── Risk Triangle Scorer        │  ├── 7-Rule Engine (Swiss Cheese)     │
+│  │   (Identity × Exposure        │  │   R1 Simbox · R2 Wangiri ·        │
+│  │    × Behavior)                │  │   R3 Burner · R4 Student Hunter ·  │
+│  ├── K-Means Clustering          │  │   R5 Device Hopper · R6 Smishing · │
+│  │   (4 Personas)                │  │   R7 Short Burst                   │
+│  └── Portrait Generator          │  ├── XGBoost + Isolation Forest       │
+│                                  │  └── Fraud Persona Clustering         │
+├──────────────────────────────────────────────────────────────────────────┤
+│  AI Services                                                              │
+│  ├── Groq LLM — Personalized intervention script generation              │
+│  └── SHAP-style Explainer — Feature contribution visualization           │
+├──────────────────────────────────────────────────────────────────────────┤
+│  Privacy & Ethics Stack                                                   │
+│  ├── Differential Privacy (ε=5.0 / ε=1.0 Laplace noise on aggregates)   │
+│  ├── PII Masking on all displayed data                                    │
+│  └── Human-in-the-Loop for Greylist → Whitelist promotion                │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
+
+### Technology Stack
+
+| Layer            | Technologies                                                      |
+| ---------------- | ----------------------------------------------------------------- |
+| **Frontend**     | Streamlit, Plotly, pyvis (vis.js), tom-select                     |
+| **ML / AI**      | XGBoost, Isolation Forest, scikit-learn, SHAP, K-Means            |
+| **LLM**         | Groq API (intervention script generation)                         |
+| **Privacy**      | IBM diffprivlib (Differential Privacy), custom PII masking        |
+| **Data**         | pandas, NumPy                                                     |
+| **Deployment**   | Docker, Docker Compose                                            |
+| **Language**     | Python 3.11                                                       |
 
 ---
 
@@ -110,23 +154,35 @@ Solution/
 
 ### Student Risk Module (Task 1)
 
-- **Risk Triangle Scoring**: Identity → Exposure → Behavior
-- **Persona Clustering**: The Naive Freshman, The Connected Elder, etc.
-- **Explainable Reasons**: Human-readable risk explanations
+- **Risk Triangle Scoring**: Three-layer assessment — Identity Vulnerability (age, student type) → Threat Exposure (unknown/overseas/mainland calls) → Risky Behavior (pick-up rate, callback, call duration). Each layer scores 0–100 and feeds into a composite risk score.
+- **Cross-Task Threat Intelligence**: Cross-references every student's call history against the confirmed fraud MSISDN database produced by Task 2, creating a genuine closed-loop between detection and protection.
+- **K-Means Persona Clustering (4 Personas)**: The Naive Freshman, The Connected Elder, The Silent Victim, and more — each persona drives targeted education strategies.
+- **Explainable Reasons**: Every risk score comes with human-readable, per-student explanations (e.g., *"Age 19 + 12 mainland calls + answered 3 known-fraud numbers"*).
 
 ### Fraud Detection Module (Task 2)
 
-- **6-Rule Engine**: Simbox, Wangiri, Student Hunter, etc.
-- **Hybrid ML**: XGBoost + Isolation Forest
-- **Persona Clustering**: The Robocall Factory, The Campus Predator, etc.
+- **7-Rule Swiss Cheese Engine**: Multiple overlapping rules ensure no single point of failure:
+  - **R1 Simbox** — Low call diversity bots
+  - **R2 Wangiri** — Outbound-only silent broadcasters
+  - **R3 Prepaid Burner** — Disposable SIMs with burst activity
+  - **R4 Student Hunter** — Numbers disproportionately targeting students
+  - **R5 Device Hopper** — Repeated IMEI changes to evade bans
+  - **R6 Smishing Bot** — High SMS volume with zero voice calls
+  - **R7 Short Burst** — Ultra-short calls at high volume (robocallers)
+- **Hybrid ML Layer**: XGBoost (supervised) + Isolation Forest (unsupervised) catch "smart" fraud that evades hand-crafted rules.
+- **3-Tier Classification**: BLACKLIST (auto-block) → GREYLIST (human review) → WHITELIST (cleared).
+- **Fraud Persona Clustering**: The Robocall Factory, The Campus Predator, etc. — actionable profiles for law enforcement.
 
-### Frontend Features
+### Frontend Dashboard Features
 
-- 📊 Real-time Dashboard
-- 👤 Student Detail Lookup
-- 🎮 Live Risk Simulator
-- 🕸️ Network Visualization
-- ✅ Whitelist Review Workflow
+- 📊 **Real-time Dashboard** — KPI cards with Differential Privacy–protected aggregate counts
+- 👤 **Student Detail Lookup** — Individual risk profiles, SHAP-style feature contribution charts, and one-click Groq LLM intervention script generation
+- 🎮 **Live Risk Simulator** — Adjust student parameters (age, call counts, etc.) and watch the Risk Triangle Score change in real time
+- 🕸️ **Network Visualization** — Interactive fraud ↔ student connection graph powered by vis.js / pyvis
+- 🚨 **Fraud Intelligence Panel** — Browse the Blacklist & Greylist with rule-level justification
+- ✅ **Whitelist Review Workflow** — Human-in-the-loop approval flow for Greylist numbers
+- 🎯 **Fraud Scenario Simulator** — Replay real fraud event chains (Contact → Detection → Alert → Intervention → Outcome) against the live rule engine
+- 🔒 **Ethical AI Dashboard** — Displays implemented privacy principles: Differential Privacy, PII masking, SHAP explainability, and human oversight
 
 ---
 
@@ -134,22 +190,121 @@ Solution/
 
 ### Task 1: Student Risk
 
-- **5,240** HIGH-RISK students identified (9.1%)
-- **4 Personas**: Naive Freshman, Connected Elder, Silent Victim, etc.
+- **5,240** HIGH-RISK students identified (9.1% of the student population)
+- **4 Personas** discovered via K-Means clustering: Naive Freshman, Connected Elder, Silent Victim, and more
+- Each student receives a composite Risk Triangle Score (0–100) with sub-scores for Identity, Exposure, and Behavior
 
 ### Task 2: Fraud Detection
 
-- **6-Rule Engine** catches known fraud patterns
-- **ML Model** detects unknown fraud variants
-- **3-Tier Classification**: BLACKLIST → GREYLIST → WHITELIST
+- **7-Rule Engine** catches known fraud patterns with transparent, per-number justifications
+- **Hybrid ML Model** (XGBoost + Isolation Forest) detects previously unseen fraud variants
+- **3-Tier Classification**: BLACKLIST (auto-block) → GREYLIST (manual review) → WHITELIST (cleared)
+- Fraud persona clusters provide actionable intelligence for network-level takedowns
+
+### Task 3: Product Vulnerability
+
+- Feature-level analysis identifies which telecom products and plans are disproportionately exploited by fraudsters
+- Risk distribution charts visualize product-level exposure for business decision-making
 
 ---
 
 ## 🔒 Privacy & Ethics
 
-- **Differential Privacy**: ε=5.0 noise injection
-- **SHAP Explainability**: Transparent model decisions
-- **Human-in-the-loop**: Greylist requires manual review
+| Principle                | Implementation                                                                                       |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Differential Privacy** | IBM diffprivlib with ε=5.0 for model training; ε=1.0 Laplace noise on all dashboard aggregate counts |
+| **PII Masking**          | Phone numbers, names, and IDs are masked in all UI displays to prevent data leakage                  |
+| **SHAP Explainability**  | Feature contribution bar charts explain every risk score — no black-box decisions                     |
+| **Human-in-the-Loop**    | Greylist numbers require manual operator review before promotion to Whitelist or escalation           |
+| **Audit Trail**          | Rule IDs and justification text are stored alongside every classification decision                    |
+
+---
+
+## 🐳 Docker Setup
+
+The project ships with a production-ready `Dockerfile` and `compose.yaml` for one-command deployment.
+
+### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) (v20.10+)
+- [Docker Compose](https://docs.docker.com/compose/install/) (v2+)
+- *(Optional)* A [Groq API key](https://console.groq.com/) for AI-powered intervention scripts
+
+### Option 1 — Docker Compose (Recommended)
+
+```bash
+# 1. Clone the repository and navigate into it
+git clone <repo-url>
+cd Wutong-Defense-Console-A-Closed-Loop-Campus-Anti-Fraud-System
+
+# 2. (Optional) Create a .env file with your Groq API key
+echo "GROQ_API_KEY=gsk_xxxxx" > .env
+
+# 3. Build and start the container
+docker compose up --build
+```
+
+The application will be available at **http://localhost:8501**.
+
+> **Live reload**: Source code under `src/` is mounted read-only, so changes are reflected after a browser refresh. The `Datasets/` and `models/` directories are mounted read-write so the app can save results.
+
+To stop the container:
+
+```bash
+docker compose down
+```
+
+### Option 2 — Standalone Docker Build
+
+```bash
+# 1. Build the image
+docker build -t wutong-defense-console .
+
+# 2. Run the container
+docker run -d \
+  --name wutong \
+  -p 8501:8501 \
+  -e GROQ_API_KEY=gsk_xxxxx \
+  -v ./Datasets:/app/Datasets:rw \
+  -v ./models:/app/models:rw \
+  wutong-defense-console
+```
+
+Open **http://localhost:8501** in your browser.
+
+### Option 3 — Cross-Platform / Cloud Build
+
+If deploying to a cloud provider with a different CPU architecture (e.g., building on Apple M-series for an amd64 server):
+
+```bash
+# Build for a specific platform
+docker build --platform=linux/amd64 -t wutong-defense-console .
+
+# Push to your registry
+docker tag wutong-defense-console myregistry.com/wutong-defense-console
+docker push myregistry.com/wutong-defense-console
+```
+
+### Container Details
+
+| Setting              | Value                             |
+| -------------------- | --------------------------------- |
+| Base image           | `python:3.11-slim`                |
+| Exposed port         | `8501`                            |
+| Health check         | `GET /_stcore/health`             |
+| Working directory    | `/app`                            |
+| PYTHONPATH           | `/app/src:/app/src/frontend`      |
+| MPLCONFIGDIR         | `/tmp/matplotlib`                 |
+| Writable volumes     | `/app/Datasets`, `/app/models`    |
+
+### Troubleshooting
+
+| Issue                              | Solution                                                                                     |
+| ---------------------------------- | -------------------------------------------------------------------------------------------- |
+| Port 8501 already in use           | Change the host port: `-p 9000:8501` or edit `compose.yaml`                                  |
+| Groq scripts not generating        | Verify `GROQ_API_KEY` is set — check with `docker exec wutong env \| grep GROQ`             |
+| Permission denied on Datasets/     | Ensure the host directories exist and are writable, or run `chmod -R 777 Datasets/ models/`  |
+| Container exits immediately        | Check logs: `docker logs wutong` or `docker compose logs`                                    |
 
 ---
 
