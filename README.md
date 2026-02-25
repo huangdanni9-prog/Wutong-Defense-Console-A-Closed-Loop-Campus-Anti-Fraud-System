@@ -33,38 +33,38 @@ The system forms a **closed loop** — outputs from one task feed into another:
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                        Wutong Defense Console                            │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  Frontend (Streamlit)                                                     │
-│  ├── 📊 Real-time Dashboard          - KPI overview with DP-protected    │
-│  │                                      aggregate statistics             │
-│  ├── 👤 Student Detail Lookup         - Individual risk profiles with    │
-│  │                                      SHAP-style explanations          │
-│  ├── 🎮 Live Risk Simulator           - Adjust parameters to see score  │
-│  │                                      changes in real time             │
-│  ├── 🕸️ Network Visualization         - Interactive fraud-student graph  │
-│  │                                      (vis.js / pyvis)                 │
-│  ├── 🚨 Fraud Intelligence            - Blacklist & Greylist management │
-│  ├── ✅ Whitelist Review Workflow      - Human-in-the-loop approval      │
-│  ├── 🎯 Fraud Scenario Simulator      - Replay real fraud chains with   │
-│  │                                      rule-engine live testing         │
-│  └── 🔒 Ethical AI Dashboard          - Transparency & privacy controls │
+│  Frontend (Streamlit)                                                    │
+│  ├──  Real-time Dashboard           - KPI overview with DP-protected     │
+│  │                                    aggregate statistics               │
+│  ├──  Student Detail Lookup         - Individual risk profiles with      │
+│  │                                    SHAP-style explanations            │
+│  ├──  Live Risk Simulator           - Adjust parameters to see score     │
+│  │                                    changes in real time               │
+│  ├──  Network Visualization         - Interactive fraud-student graph    │
+│  │                                     (vis.js / pyvis)                  │
+│  ├──  Fraud Intelligence            - Blacklist & Greylist management    │
+│  ├──  Whitelist Review Workflow     - Human-in-the-loop approval         │
+│  ├──  Fraud Scenario Simulator      - Replay real fraud chains with      │
+│  │                                    rule-engine live testing           │
+│  └──  Ethical AI Dashboard          - Transparency & privacy controls    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  Student Risk Module (Task 1)    │  Fraud Detection Module (Task 2)      │
 │  ├── Feature Engineering         │  ├── Feature Engineering              │
 │  ├── Risk Triangle Scorer        │  ├── 7-Rule Engine (Swiss Cheese)     │
-│  │   (Identity × Exposure        │  │   R1 Simbox · R2 Wangiri ·        │
+│  │   (Identity × Exposure        │  │   R1 Simbox · R2 Wangiri ·         │
 │  │    × Behavior)                │  │   R3 Burner · R4 Student Hunter ·  │
 │  ├── K-Means Clustering          │  │   R5 Device Hopper · R6 Smishing · │
 │  │   (4 Personas)                │  │   R7 Short Burst                   │
 │  └── Portrait Generator          │  ├── XGBoost + Isolation Forest       │
 │                                  │  └── Fraud Persona Clustering         │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  AI Services                                                              │
+│  AI Services                                                             │
 │  ├── Groq LLM — Personalized intervention script generation              │
 │  └── SHAP-style Explainer — Feature contribution visualization           │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  Privacy & Ethics Stack                                                   │
-│  ├── Differential Privacy (ε=5.0 / ε=1.0 Laplace noise on aggregates)   │
-│  ├── PII Masking on all displayed data                                    │
+│  Privacy & Ethics Stack                                                  │
+│  ├── Differential Privacy (ε=5.0 / ε=1.0 Laplace noise on aggregates)    │
+│  ├── PII Masking on all displayed data                                   │
 │  └── Human-in-the-Loop for Greylist → Whitelist promotion                │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
