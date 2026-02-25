@@ -220,10 +220,10 @@ Solution/
 ---
 
 ## 👥 Team
-Daniel Koh Yu Hang
-Daniel Ng Tang Ni
-Ong Shun Yee
-Pang Yu Chen
+Daniel Koh Yu Hang,
+Daniel Ng Tang Ni,
+Ong Shun Yee,
+Pang Yu Chen,
 Jared Lee Chia Yang
 
 ---
