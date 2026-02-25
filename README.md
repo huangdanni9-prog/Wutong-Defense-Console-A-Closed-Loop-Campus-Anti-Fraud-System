@@ -94,7 +94,7 @@ The system forms a **closed loop** — outputs from one task feed into another:
 
 ```bash
 # Clone and navigate
-cd Solution
+cd Wutong-Defense-Console-A-Closed-Loop-Campus-Anti-Fraud-System
 
 # Create virtual environment
 python -m venv .venv
