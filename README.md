@@ -99,7 +99,6 @@ cd Wutong-Defense-Console-A-Closed-Loop-Campus-Anti-Fraud-System
 # Create virtual environment
 python -m venv .venv
 .venv\Scripts\activate  # Windows
-source .venv/bin/activate  # Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
